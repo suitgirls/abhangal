@@ -1,5 +1,6 @@
 body{
-    background-color: cadetblue;
+    background-color: lightblue;
 }
-h1 {color: aliceblue; background-color: bisque;}
+h1 {color: aliceblue}
+h2{color: bisque}
 a{color:navajowhite}
