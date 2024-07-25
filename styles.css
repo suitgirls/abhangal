@@ -1,6 +1,9 @@
 body {
     background-color: rgb(168, 195, 247);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
 }
 h1 {color:rgb(203, 228, 250);
     font-family: "Lora", serif;
