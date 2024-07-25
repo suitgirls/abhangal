@@ -16,6 +16,9 @@ a {color:rgb(65, 108, 143);}
 
 nav {background-color: cornsilk;}
 nav a {color: rgb(65, 108, 143) }
-nav {color: rgb(65, 108, 143)}
+
+a:hover{
+  background-color: midnightblues;
+}
 
 
