@@ -2,10 +2,10 @@ body {
     background-color: rgb(168, 195, 247);
 }
 h1 {color:rgb(203, 228, 250);
-    font-family: 'Playwrite AT', cursive;
-    }
+    font-family: "Lora", serif;
+}
 h2 {color:rgb(213, 222, 230);
-    font-family: 'Playwrite AT', cursive;
+    font-family: "Lora", serif;
    }
 
 a {color:rgb(65, 108, 143);}
