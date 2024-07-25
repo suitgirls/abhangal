@@ -1,14 +1,15 @@
 body {
     background-color: rgb(168, 195, 247);
+    color: rgb(91, 141, 170);
     font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
 }
-h1 {color:rgb(203, 228, 250);
+h1 {color:rgb(50, 106, 155);
     font-family: "Lora", serif;
 }
-h2 {color: cornsilk;
+h2 {color: rgb(238, 233, 216);
     font-family: "Lora", serif;
    }
 
@@ -18,9 +19,4 @@ a {color: cornsilk}
 a:hover{
   background-color: cornflowerblue;
 }
-
-img {
-text-align: center;
-}
-
 
