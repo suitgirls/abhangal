@@ -12,10 +12,10 @@ h2 {color:rgb(213, 222, 230);
     font-family: "Lora", serif;
    }
 
-a {color: cornsilk;}
+nav {color: cornsilk;}
 
-a:hover{
-  background-color: red;
+nav:hover{
+  background-color: cornflowerblue;
 }
 
 
