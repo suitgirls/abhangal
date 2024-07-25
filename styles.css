@@ -12,11 +12,9 @@ h2 {color:rgb(213, 222, 230);
     font-family: "Lora", serif;
    }
 
-nav {
-  padding:10px;
-  color: cornsilk}
-
-nav:hover{
+nav { padding:10px; }
+a {color: cornsilk}
+a:hover{
   background-color: cornflowerblue;
 }
 
