@@ -1,6 +1,6 @@
 body {
     background-color: rgb(168, 195, 247);
-    color: rgb(91, 141, 170);
+    color: rgb(80, 133, 163);
     font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;
   font-weight: weight;
@@ -33,6 +33,3 @@ img {
   border-radius: 25px;
 }
 
-b {
-  color: rgb(73, 93, 148);
-}
